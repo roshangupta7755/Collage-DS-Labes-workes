@@ -3,7 +3,7 @@
 # 📘 <span style="background: linear-gradient(90deg,#00b4d8,#0077b6); padding:8px 15px; border-radius:8px; color:white;">Collage DS Labs Workes</span>
 
 ### <i>Beautiful • Modern • GitHub‑Optimized README</i>
-
+  
 ---  
 
 ## ⭐ Badges
