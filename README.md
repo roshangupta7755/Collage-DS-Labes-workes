@@ -4,7 +4,7 @@
 
 ### <i>Beautiful • Modern • GitHub‑Optimized README</i>
 
----
+---  
 
 ## ⭐ Badges
 
