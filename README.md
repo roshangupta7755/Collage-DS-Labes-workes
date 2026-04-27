@@ -5,7 +5,7 @@
 ### <i>Beautiful • Modern • GitHub‑Optimized README</i>
     
 ---  
-
+  
 ## ⭐ Badges
 
 <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge"> 
